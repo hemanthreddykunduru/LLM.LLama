@@ -118,6 +118,11 @@ TinyLLaMA Model Specifications:
 - **Gradient Clipping**: Max norm 1.0
 - **Validation Split**: 90/10 train/validation
 
+### Phase 6(Chat):  User Vs LLm
+```python
+python chat.py
+```
+
 ## 🔧 Configuration
 
 ### Customizing Topics
