@@ -1,3 +1,10 @@
+### **Note**
+- Due to size constraint size limited to <=100MB
+- So, checkpoints.pt and tinyllama_final.pt is empty file train on your local then you can use the model.
+
+
+
+
 # TinyLLaMA: Custom Language Model Training Pipeline
 
 A complete end-to-end pipeline for training a small-scale language model from scratch, including data collection, preprocessing, tokenization, and training with a LLaMA-inspired architecture.
