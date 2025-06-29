@@ -263,9 +263,9 @@ model = TinyLLaMA(
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📝 License
+## 📝 Thank's
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+Build on **LLama3** style architecture and techniques
 
 ## 🙏 Acknowledgments
 
@@ -280,7 +280,6 @@ For questions and support:
 - Open an issue on GitHub
 - Check the troubleshooting section
 - Review the code comments for implementation details
+- Mail us hemanthreddykunduru0701@gmail.com
 
 ---
-
-**Note**: This is an educational project for learning language model training. For production use, consider using established frameworks like Transformers or fine-tuning existing models.
