@@ -1,5 +1,5 @@
 ### **Note**
-- Due to size constraint size limited to <=100MB
+- Due to size constraint limited to <=100MB
 - So, checkpoints.pt and tinyllama_final.pt is empty file train on your local then you can use the model.
 
 
