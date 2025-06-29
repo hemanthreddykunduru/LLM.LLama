@@ -267,7 +267,7 @@ model = TinyLLaMA(
 ## 📈 Performance Expectations
 
 ### Training Time
-- **GPU (RTX 3080)**: ~2-4 hours for 100 epochs
+- **GPU (RTX 3050)**: ~2-4 hours for 100 epochs
 - **GPU (GTX 1060)**: ~8-12 hours for 100 epochs  
 - **CPU**: Not recommended (days/weeks)
 
