@@ -120,7 +120,7 @@ TinyLLaMA Model Specifications:
 
 ### Phase 5: Training Configuration
 - **Optimizer**: AdamW with weight decay (0.1)
-- **Learning Rate**: \[ 5 \times 10^{-4} \] with cosine annealing
+- **Learning Rate**:  5e-4 with cosine annealing
 - **Batch Size**: 8
 - **Epochs**: 100
 - **Gradient Clipping**: Max norm 1.0
