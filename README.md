@@ -1,8 +1,5 @@
 ### **Note**
-- Due to size constraint limited to <=100MB
-- So, checkpoints.pt and tinyllama_final.pt is empty file train on your local then you can use the model.
-
-
+- Due to a size constraint (limited to ≤100MB), the checkpoints.pt and tinyllama_final.pt files are empty placeholders. Please train the model locally on your machine to generate the actual model files.
 
 
 # TinyLLaMA: Custom Language Model Training Pipeline
